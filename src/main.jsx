@@ -21,8 +21,8 @@ import IMG_10 from "./assets/images/porduct_10.png";
 import IMG_11 from "./assets/images/porduct_11.jpg";
 import IMG_12 from "./assets/images/porduct_12.png";
 
-import Navbar from "./navbar/Navbar";
-import Footer from "./Footer/Footer";
+import Navbar from "./navbar/navbar";
+import Footer from "./Footer/footer";
 import Hero from "./pages/Hero";
 import Login from "./pages/Login";
 import Registration from "./pages/Registration";
