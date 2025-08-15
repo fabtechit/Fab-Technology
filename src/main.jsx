@@ -155,6 +155,7 @@ const dummyProducts = [
   },
   {
     id: "10",
+    
     name: "Electric Kettle",
     price: 45.0,
     realPrice: 50.0,
