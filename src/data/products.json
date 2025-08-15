@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "Stylish Men's Casual Shirt",
+    "image": "https://placehold.co/300x300/F0F0F0/333333?text=Shirt",
+    "price": "550.00",
+    "oldPrice": "750.00",
+    "rating": "4.5",
+    "reviews": 321,
+    "flashSale": true,
+    "stockProgress": 25,
+    "description": "A comfortable and stylish casual shirt for men. Perfect for everyday wear.",
+    "details": [
+      { "key": "Brand", "value": "Fashion Hub" },
+      { "key": "Material", "value": "100% Cotton" },
+      { "key": "Color", "value": "Blue" },
+      { "key": "Size", "value": "M, L, XL" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "High-Performance Wireless Headphones",
+    "image": "https://placehold.co/300x300/E5E5E5/333333?text=Headphones",
+    "price": "1299.00",
+    "oldPrice": "1999.00",
+    "rating": "4.8",
+    "reviews": 567,
+    "flashSale": true,
+    "stockProgress": 75,
+    "description": "Experience crystal clear sound with these over-ear wireless headphones.",
+    "details": [
+      { "key": "Brand", "value": "AudioPlus" },
+      { "key": "Connectivity", "value": "Bluetooth 5.0" },
+      { "key": "Battery", "value": "20 Hours" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Classic Leather Handbag",
+    "image": "https://placehold.co/300x300/DCDCDC/333333?text=Handbag",
+    "price": "899.00",
+    "oldPrice": null,
+    "rating": "4.2",
+    "reviews": 150,
+    "flashSale": false,
+    "stockProgress": null,
+    "description": "A timeless leather handbag, perfect for all occasions.",
+    "details": [
+      { "key": "Brand", "value": "Chic Bags" },
+      { "key": "Material", "value": "Genuine Leather" },
+      { "key": "Color", "value": "Brown" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Office Chair",
+    "image": "https://placehold.co/300x300/C8C8C8/333333?text=Chair",
+    "price": "2499.00",
+    "oldPrice": "3000.00",
+    "rating": "4.9",
+    "reviews": 980,
+    "flashSale": true,
+    "stockProgress": 40,
+    "description": "Stay comfortable during long working hours with this ergonomic chair.",
+    "details": [
+      { "key": "Brand", "value": "Comfort Zone" },
+      { "key": "Material", "value": "Mesh Fabric" },
+      { "key": "Adjustable", "value": "Height, Armrests" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Men's Digital Sports Watch",
+    "image": "https://placehold.co/300x300/BDBDBD/333333?text=Watch",
+    "price": "450.00",
+    "oldPrice": null,
+    "rating": "4.1",
+    "reviews": 75,
+    "flashSale": true,
+    "stockProgress": null,
+    "description": "A waterproof digital watch with stopwatch and alarm features.",
+    "details": [
+      { "key": "Brand", "value": "TimeWear" },
+      { "key": "Water Resistance", "value": "50m" },
+      { "key": "Features", "value": "Alarm, Stopwatch, Backlight" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Stainless Steel Kitchen Set",
+    "image": "https://placehold.co/300x300/A8A8A8/333333?text=Kitchen+Set",
+    "price": "1800.00",
+    "oldPrice": "2200.00",
+    "rating": "4.6",
+    "reviews": 430,
+    "flashSale": false,
+    "stockProgress": null,
+    "description": "A durable and complete stainless steel kitchen utensil set.",
+    "details": [
+      { "key": "Brand", "value": "HomeChef" },
+      { "key": "Pieces", "value": "12" },
+      { "key": "Material", "value": "Stainless Steel" }
+    ]
+  }
+]
